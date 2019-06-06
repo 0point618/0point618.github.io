@@ -15,7 +15,7 @@ tags:								#标签
    ssh -L 6006:localhost:6006 root@ip
    ```
 
-2. ==cd到runs（logdir）的路径的上一级！！！==（非常重要，之前参考网上的各种方法都失败了）
+2. **cd到runs（logdir）的路径的上一级！！！**（非常重要，之前参考网上的各种方法都失败了）
 
 3. 在terminal中输入
 
